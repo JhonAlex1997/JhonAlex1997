@@ -2,14 +2,14 @@
 
 🎓 **Estudiante del 9.° ciclo de Ingeniería de Sistemas** | 💻 **Full Stack Developer**
 
-Me apasiona el desarrollo de software, la arquitectura de aplicaciones escalables y la construcción de APIs REST eficientes. Enfocado en soluciones backend con **Java (Spring Boot)** y **Python**, integrando bases de datos relacionales y buenas prácticas de desarrollo.
+Me apasiona el desarrollo de software, la arquitectura de aplicaciones escalables y la construcción de APIs REST eficientes. Enfocado en soluciones backend con **Java (Spring Boot)** y **TypeScript**, integrando bases de datos relacionales y buenas prácticas de desarrollo.
 
 ---
 
 ### 🚀 Sobre mí
 
 - 🎓 **Formación:** Estudiante de último año de Ingeniería de Sistemas (UPC).
-- 💻 **Especialidad:** Desarrollo Full Stack con fuerte base en Backend (Java, Spring Boot, Python).
+- 💻 **Especialidad:** Desarrollo Full Stack con fuerte base en Backend (Java, Spring Boot, TypeScript).
 - 🛢️ **Bases de Datos:** Diseños relacionales optimizados en PostgreSQL y MySQL.
 - ⚙️ **Enfoque actual:** Profundizando en arquitectura limpia, microservicios, seguridad en APIs y despliegues en la nube.
 - 🎯 **Objetivo:** Unirme a equipos de desarrollo donde pueda aportar valor construyendo software robusto y continuar creciendo profesionalmente.
