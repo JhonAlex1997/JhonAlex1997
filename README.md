@@ -8,11 +8,11 @@ Me apasiona el desarrollo de software, la arquitectura de aplicaciones escalable
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Estudiante de último año de Ingeniería de Sistemas (UPC).
-- 💻 **Especialidad:** Desarrollo Full Stack con fuerte base en Backend (Java, Spring Boot, TypeScript).
+- 🎓 **Formación:** Estudiante de 9.º ciclo de Ingeniería de Sistemas (UPC).
+- 📜 **Titulación Técnica:** Técnico Titulado en Mantenimiento de Equipos de Cómputo (Diagnóstico, arquitectura de hardware, ensamblaje y soporte preventivo/correctivo).
+- 💻 **Especialidad:** Desarrollo Full Stack enfocado en Backend (Java, Spring Boot, Python).
 - 🛢️ **Bases de Datos:** Diseños relacionales optimizados en PostgreSQL y MySQL.
-- ⚙️ **Enfoque actual:** Profundizando en arquitectura limpia, microservicios, seguridad en APIs y despliegues en la nube.
-- 🎯 **Objetivo:** Unirme a equipos de desarrollo donde pueda aportar valor construyendo software robusto y continuar creciendo profesionalmente.
+- 🎯 **Objetivo:** Unirme a equipos de desarrollo o TI aportando una visión integral (Hardware + Software).
 
 ---
 
@@ -34,6 +34,11 @@ Me apasiona el desarrollo de software, la arquitectura de aplicaciones escalable
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Hardware, Redes & Soporte Técnico**
+![Hardware](https://img.shields.io/badge/Mantenimiento_de_Hardware-0078D4?style=for-the-badge&logo=microchip&logoColor=white)
+![IT Support](https://img.shields.io/badge/Soporte_T%C3%A9cnico_Titulado-232F3E?style=for-the-badge&logo=tools&logoColor=white)
+![Networks](https://img.shields.io/badge/Redes_%26_Sistemas-4D4D4D?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
