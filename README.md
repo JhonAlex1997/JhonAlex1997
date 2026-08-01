@@ -44,8 +44,6 @@ Me apasiona el desarrollo de software, la arquitectura de aplicaciones escalable
 
 ### 📌 Proyectos Destacados
 
-> 💡 *Sube tus proyectos principales a repositorios públicos y enlázalos aquí:*
-
 - 🛠️ **[Task Manager API](https://github.com/JhonAlex1997):** REST API desarrollada con Spring Boot, Spring Data JPA y PostgreSQL.
 - 🏢 **[Sistema de Gestion de inventarios](https://github.com/JhonAlex1997):** Aplicación hecha en html, scss y typescript
 
